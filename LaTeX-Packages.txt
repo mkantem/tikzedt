@@ -1,0 +1,8 @@
+pgf
+ms
+xcolor
+preview
+mptopdf
+circuitikz
+pgfopts
+pgfplots
